@@ -1,12 +1,12 @@
-This is #90DaysofDevops challenge under the guidance of Shubham Londhe sir.
+This is the #90DaysofDevops challenge under the guidance of Shubham Londhe sir.
 
-In this challenge ,I will be completing Day-wise tasks given by Shubham sir for the next 90 Days.
+In this challenge , I will be completing Day-wise tasks given by Shubham sir for the next 90 Days.
 
-What is DevOps ?
+What is DevOps?
 
 DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the systems development life cycle by automating the processes between these two teams. This results in faster and more reliable software releases.
 
-What is automation ?
+What is automation?
 
 Automation is like having a helpful robot do tasks for you, so you don’t have to do them yourself. 🤖
 
@@ -22,7 +22,7 @@ Automation is like having a helpful robot do tasks for you, so you don’t have 
 
 🔹 So, next time you see a robot or use a smart device, remember that it’s all part of automation — making life easier and giving us more time to do the things we love. 🤗🚀
 
-What is Scaling ?
+What is Scaling?
 
 Scaling is like making your business or project grow bigger and stronger. It’s about expanding and handling more work as you become more successful. 📈💪
 
@@ -30,13 +30,13 @@ Scaling is like making your business or project grow bigger and stronger. It’s
 
 🔸 Scaling is not just about selling lemonade. It applies to all kinds of businesses, from small startups to large companies. When a business scales, it means it can handle more customers, more sales, and more operations without breaking down or becoming overwhelmed.
 
-What is infrastructure ?
+What is infrastructure?
 
 Infrastructure is like the backbone that supports our society. It’s the systems, facilities, and structures that we rely on every day to function and thrive. 🏢🛣️💡
 
 🔹 Think of infrastructure as the roads we drive on, the buildings we live and work in, the power lines that bring electricity to our homes, and the internet connections that keep us connected. It’s the essential foundation that enables us to live our lives and carry out various activities.
 
-Why DevOps is Important ?
+Why DevOps is Important?
 
 DevOps is like a well-oiled machine that brings together development and operations teams to work harmoniously. It’s an approach that promotes collaboration, automation, and continuous improvement in the software development and delivery process. 🚀🔧👥
 
